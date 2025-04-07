@@ -1,6 +1,6 @@
-﻿class program
+﻿class Program
 {
-    public static void Man()
+    public static void Main()
     {
         //Atividade 02
         Console.WriteLine("Digite a sua idade:");
