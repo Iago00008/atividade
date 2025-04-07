@@ -15,6 +15,7 @@
             case 5: Console.WriteLine("Sexta-Feira"); break;
             case 6: Console.WriteLine("Sabado"); break;
             case 7: Console.WriteLine("Domingo"); break;
+            default: Console.WriteLine("Este número não existe"); break;
 
 
 
