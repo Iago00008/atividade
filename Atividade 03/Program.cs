@@ -4,7 +4,7 @@
     {
         Console.WriteLine("Digite um número de 1 a 7:");
              int num = Convert.ToInt32(Console.ReadLine());
-
+        Console.Clear();
         if (num == 1)
         {
             Console.WriteLine("Segunda-Feira");
