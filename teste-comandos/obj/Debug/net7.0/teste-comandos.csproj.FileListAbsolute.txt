@@ -1,0 +1,14 @@
+C:\Users\iago55093726\Documents\atividade\teste-comandos\bin\Debug\net7.0\teste-comandos.exe
+C:\Users\iago55093726\Documents\atividade\teste-comandos\bin\Debug\net7.0\teste-comandos.deps.json
+C:\Users\iago55093726\Documents\atividade\teste-comandos\bin\Debug\net7.0\teste-comandos.runtimeconfig.json
+C:\Users\iago55093726\Documents\atividade\teste-comandos\bin\Debug\net7.0\teste-comandos.dll
+C:\Users\iago55093726\Documents\atividade\teste-comandos\bin\Debug\net7.0\teste-comandos.pdb
+C:\Users\iago55093726\Documents\atividade\teste-comandos\obj\Debug\net7.0\teste-comandos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago55093726\Documents\atividade\teste-comandos\obj\Debug\net7.0\teste-comandos.AssemblyInfoInputs.cache
+C:\Users\iago55093726\Documents\atividade\teste-comandos\obj\Debug\net7.0\teste-comandos.AssemblyInfo.cs
+C:\Users\iago55093726\Documents\atividade\teste-comandos\obj\Debug\net7.0\teste-comandos.csproj.CoreCompileInputs.cache
+C:\Users\iago55093726\Documents\atividade\teste-comandos\obj\Debug\net7.0\teste-comandos.dll
+C:\Users\iago55093726\Documents\atividade\teste-comandos\obj\Debug\net7.0\refint\teste-comandos.dll
+C:\Users\iago55093726\Documents\atividade\teste-comandos\obj\Debug\net7.0\teste-comandos.pdb
+C:\Users\iago55093726\Documents\atividade\teste-comandos\obj\Debug\net7.0\teste-comandos.genruntimeconfig.cache
+C:\Users\iago55093726\Documents\atividade\teste-comandos\obj\Debug\net7.0\ref\teste-comandos.dll
