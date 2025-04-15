@@ -1,0 +1,14 @@
+C:\Users\iago55093726\Documents\atividade\exercicio-01\obj\Debug\net7.0\exercicio-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago55093726\Documents\atividade\exercicio-01\obj\Debug\net7.0\exercicio-01.AssemblyInfoInputs.cache
+C:\Users\iago55093726\Documents\atividade\exercicio-01\obj\Debug\net7.0\exercicio-01.AssemblyInfo.cs
+C:\Users\iago55093726\Documents\atividade\exercicio-01\obj\Debug\net7.0\exercicio-01.csproj.CoreCompileInputs.cache
+C:\Users\iago55093726\Documents\atividade\exercicio-01\bin\Debug\net7.0\exercicio-01.exe
+C:\Users\iago55093726\Documents\atividade\exercicio-01\bin\Debug\net7.0\exercicio-01.deps.json
+C:\Users\iago55093726\Documents\atividade\exercicio-01\bin\Debug\net7.0\exercicio-01.runtimeconfig.json
+C:\Users\iago55093726\Documents\atividade\exercicio-01\bin\Debug\net7.0\exercicio-01.dll
+C:\Users\iago55093726\Documents\atividade\exercicio-01\bin\Debug\net7.0\exercicio-01.pdb
+C:\Users\iago55093726\Documents\atividade\exercicio-01\obj\Debug\net7.0\exercicio-01.dll
+C:\Users\iago55093726\Documents\atividade\exercicio-01\obj\Debug\net7.0\refint\exercicio-01.dll
+C:\Users\iago55093726\Documents\atividade\exercicio-01\obj\Debug\net7.0\exercicio-01.pdb
+C:\Users\iago55093726\Documents\atividade\exercicio-01\obj\Debug\net7.0\exercicio-01.genruntimeconfig.cache
+C:\Users\iago55093726\Documents\atividade\exercicio-01\obj\Debug\net7.0\ref\exercicio-01.dll
